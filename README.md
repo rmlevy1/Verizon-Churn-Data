@@ -3,11 +3,15 @@
 ## Goal:
 Use Exploratory Data Analysis Skills to understand why customers are leaving Verizon wireless. 
 
-## Data:
+## Repository:
+
+## Process:
+
+### Data:
 Data was cleaned and provided by General Assembly for their Data Analysis I certificate.
 
-## Charts:
+### Charts:
 
-## Conclusion/ Actionable Insight:
+### Conclusion/ Actionable Insight:
 
 ## Further Work:
