@@ -19,8 +19,8 @@ Logistic Regression, RandomForestClassifier and XGBoostClassifier were all used 
 
 ### Charts:
 Chart Below Ranks Feature Importance
-<img src="Images/Hist.png" width="400">
+<img src="Images/FeatureImp.png" width="800">
 
 ### Conclusion/Actionable Insight:
-Check Slide 20 in Slides.
+Check Slide 20 in [Slides](https://docs.google.com/presentation/d/19jq0jxF-sUyhBDR0EP22uYxHnliLPdfkO6FAPCJPHGQ/edit?usp=sharing).
 
