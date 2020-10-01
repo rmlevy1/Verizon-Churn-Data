@@ -4,7 +4,7 @@
 Use Exploratory Data Analysis to understand why customers are leaving Verizon wireless and use Models to predict if a customer will Churn or not. 
 
 ## Table of Contents:
-1) [Slides](https://docs.google.com/presentation/d/19jq0jxF-sUyhBDR0EP22uYxHnliLPdfkO6FAPCJPHGQ/edit?usp=sharing)
+1) [Slides](https://docs.google.com/presentation/d/19bnUM1EkHwUEDW_ZzACzdOhHTG40WMaFLT11wK3Z-04/edit?usp=sharing)
 2) Modeling Repository has code for my modeling results.
 
 ## Process:
@@ -22,5 +22,5 @@ Chart Below Ranks Feature Importance
 <img src="Images/FeatureImp.png" width="800">
 
 ### Conclusion/Actionable Insight:
-Check Slide 20 in [Slides](https://docs.google.com/presentation/d/19jq0jxF-sUyhBDR0EP22uYxHnliLPdfkO6FAPCJPHGQ/edit?usp=sharing).
+Check Slide 20 in [Slides](https://docs.google.com/presentation/d/19bnUM1EkHwUEDW_ZzACzdOhHTG40WMaFLT11wK3Z-04/edit?usp=sharing).
 
